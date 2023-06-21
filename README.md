@@ -1,6 +1,7 @@
 # yt_myern
 MySQL + Express + React + Node
 
+.env
 HOST=localhost
 PORT=3000
 DB_HOST=
